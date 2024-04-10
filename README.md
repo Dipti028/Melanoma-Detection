@@ -25,6 +25,9 @@ The data set contains the following diseases:
   - Seborrheic keratosis
   - Squamous cell carcinoma
   - Vascular lesion
+ 
+  ![SKin cancer](https://github.com/Dipti028/Melanoma-Detection/assets/69421390/2f22f9d5-9c39-408b-8f22-489f020d329d)
+
 
 
 ## Technologies Used
